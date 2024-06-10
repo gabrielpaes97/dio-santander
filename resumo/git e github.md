@@ -122,6 +122,10 @@ git stash pop = *se você quiser trazer as alterações e excluir a alteração 
 
 git stash apply = *se você quiser manter essa alteração na lista para um uso posterior*
 
+git remote add upstream "**link**" = *quando vc clona um repositorio, esse codigo adiciona uma ligação do seu projeto clonado com o projeto original para manter os arquivos do mesmo atualizado*
+
+git pull upstream "**nome da branch**" = *puxa as alterações feitas no repositorio do projeto original*
+
 ## Meios de autenticação
 
 autenticar com o navegador te dá total acesso as branchs privadas do github.Em alguns momentos não é a opção adequada, sendo necessário fazer autenticação ou por Token ou chave SSH.
