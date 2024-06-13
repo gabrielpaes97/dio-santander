@@ -14,4 +14,4 @@ Repositório para armazenar resumos e documentações da Trilha AWS.
 
 | **Curso** | **Resumo** |
 |-------|--------|
-| Git e Github |[Resumo](https://github.com/gabrielpaes97/dio-santander/blob/main/resumo/git%20e%20github.md)
+| Git e Github |[Resumo](https://github.com/gabrielpaes97/dio-santander/blob/main/Resumos/git%20e%20github.md)
