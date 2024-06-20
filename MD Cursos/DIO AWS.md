@@ -10,6 +10,7 @@ Repositório para armazenar resumos e documentações da Trilha AWS.
 |-------|--------|
 | Git e Github |[Resumo](https://github.com/gabrielpaes97/dio-santander/blob/main/Resumos/GitEGithub.md)|
 |Conceitos de Nuvem na AWS|[Resumo](https://github.com/gabrielpaes97/dio-santander/blob/main/Resumos/ConceitosdDeNuvemNaAWS.md)|
+|AWS Well-Architected Framework|[Resumo](https://github.com/gabrielpaes97/dio-santander/blob/main/Resumos/IntrAWSwaf.md)|
 
 ## **Documentações e Links**
 - [Documentação Git](https://git-scm.com/doc)
